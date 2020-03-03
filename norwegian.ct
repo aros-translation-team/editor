@@ -1,7 +1,7 @@
 ;
 ; JanoEditor.catalog
 ;
-## version $VER: JanoEditor.catalog 1.1 (20.05.2019).
+## version $VER: JanoEditor.catalog 1.1 (17.03.2017).
 ## codeset 0
 ## language norsk
 ;
@@ -12,7 +12,7 @@ MSG_NEWEMPTYFILE
 Ny
 ;
 MSG_OPENNEWFILE
-Ã…pne fil...
+Åpne fil...
 ;
 MSG_LOADINPRJ
 Hent fil...
@@ -63,7 +63,7 @@ MSG_DELLINE
 Slett linje
 ;
 MSG_SUBTOOLS
-VerktÃ¸y
+Verktøy
 ;
 MSG_INDENT
 Innrykk
@@ -75,10 +75,10 @@ MSG_UPPERCASE
 Store bokstaver
 ;
 MSG_LOWERCASE
-SmÃ¥ bokstaver
+Små bokstaver
 ;
 MSG_TOGGLECASE
-Veksle store/smÃ¥ bokstaver
+Veksle store/små bokstaver
 ;
 MSG_INSERTFILE
 Sett inn fil...
@@ -87,19 +87,19 @@ MSG_UNDO
 Angre
 ;
 MSG_REDO
-GjÃ¸r om
+Gjør om
 ;
 MSG_SEARCHTITLE
-SÃ¸k
+Søk
 ;
 MSG_FIND
-SÃ¸k...
+Søk...
 ;
 MSG_REPLACE
 Erstatt...
 ;
 MSG_SUBFIND
-SÃ¸k
+Søk
 ;
 MSG_NEXTFIND
 Neste
@@ -117,19 +117,19 @@ MSG_NEXTPAGE
 Neste side
 ;
 MSG_GOTOLINE
-GÃ¥ til linje...
+Gå til linje...
 ;
 MSG_FINDBRACKET
-Matchende parenteser
+Matchende parentes
 ;
 MSG_LASTMODIF
 Siste modifikasjon
 ;
 MSG_BEGOFLINE
-Start pÃ¥ linje
+Start på linje
 ;
 MSG_ENDOFLINE
-Slutt pÃ¥ linje
+Slutt på linje
 ;
 ; Macro Menu
 ;
@@ -151,82 +151,82 @@ Gjenta makro...
 ; Environnement menu
 ;
 MSG_ENVTITLE
-Innstillinger
+Instillinger
 ;
 MSG_SCRMODE
-OpplÃ¸sning...
+Oppløsning...
 ;
 MSG_FONTS
 Skrifttyper...
 ;
 MSG_PREFS
-Generelle innstillinger...
+Generelle instillinger...
 ;
 MSG_LOADPREFS
-Hent innstillinger...
+Hent instillinger...
 ;
 MSG_SAVEPREFS
-Lagre innstillinger
+Lagre instillinger
 ;
 MSG_SAVEPREFSAS
 Lagre innstillinger som...
 ;
 ERR_BADOS
-Krever OS v2.0 eller hÃ¸yere.
+Krever OS v2.0 eller høyere.
 ;
 ERR_NOASLREQ
-Kan ikke Ã¥pne ASL-anmoder!
+Kan ikke åpne ASL-forespørsel!
 ;
 ERR_NOMEM
 Ikke nok minne!
 ;
 ERR_NOGUI
-Klarte ikke Ã¥pne brukergrensesnittet!
+Kunne ikke åpne hovedgrensesnitt!
 ;
 ERR_NONAME
 Uten navn
 ;
 ERR_WRITECLIP
-Klarte ikke skrive til utklippstavle!
+Kunne ikke skrive til clipboard!
 ;
 ERR_OPENCLIP
-Klarte ikke Ã¥pne utklippstavle!
+Kunne ikke åpne clipboard!
 ;
 ERR_LOADFILE
-Klarte ikke Ã¥pne fil!
+Kunne ikke åpne fil!
 ;
 ERR_NOTXTINCLIP
-Utklippstavlen inneholder ingen tekst
+Clipboard inneholder ingen tekst
 ;
 ERR_WRONG_TYPE
 Objektet er av feil type!
 ;
 ERR_READCLIP
-Klarte ikke lese fil pÃ¥ grunn av for lite minne!
+Kunne ikke lese fil på grunn av for lite minne!
 ;
 ERR_NOBRACKET
-Ingen parentes under markÃ¸ren!
+Ingen parentes under cursor!
 ;
 ERR_NOT_FOUND
-Klarte ikke finne mÃ¸nsteret '%s'
+Kunne ikke finne mønsteret '%s'
 ;
 ERR_LOADFONT
-Klarte ikke Ã¥pne skrifttypen!
+Kunne ikke åpne font!
 ;
 ERR_NOPREFEDITOR
-Klarte ikke finne innstillingseditoren!
+Kunne ikke finne innstillings-editoren!
 ;
 ERR_BADPREFSFILE
-Feil filformat pÃ¥ innstillingsfilen.
+Feil instillings-filformat.
 ;
 ERR_FILEMODIFIED
-%s er endret.\nEr du sikker pÃ¥ at du vil lukke?
+%s er forandret.\nEr du sikker på at du vil lukke?
 ;
 ERR_SLC
 Lagre|Lukk|Avbryt
 ;
 ERR_NOSEARCHTEXT
-Ingen tekst Ã¥ sÃ¸ke etter!
+Ingen tekst å søke etter!
 ;
 ERR_FILEEXISTS
 Filen finnes allerede. Overskrive?
@@ -252,7 +252,7 @@ MSG_ABOUT
 Om
 ;
 MSG_FORMATINFO
-%s\nProgram av T.Pierron and C.Guillaume ? 2000\n\nRedigert fil: %s\nLengde: %iu %s, %iu %s.
+%s\nProgram av T.Pierron and C.Guillaume © 2000\n\nRedigert fil: %s\nLengde: %iu %s, %iu %s.
 ;
 MSG_CONTINUE
 Fortsett
@@ -261,7 +261,7 @@ MSG_BYTE
 Byte
 ;
 MSG_BYTES
-Byte
+Bytes
 ;
 MSG_LINE
 Linje
@@ -275,19 +275,19 @@ Linjer
 ; *************************
 ;
 MSG_SEARCHWINDOW
-SÃ¸k etter
+Søk etter
 ;
 MSG_REPLACEWINDOW
-SÃ¸k og erstatt
+Søk og erstatt
 ;
 MSG_SEARCHSTRING
-SÃ¸k:
+Søk:
 ;
 MSG_REPLACESTRING
 Er_statt:
 ;
 MSG_OPTCASE
-Store/smÃ¥ bokstaver
+Store/små bokstaver
 ;
 MSG_OPTWORDS
 Hele ord
@@ -299,7 +299,7 @@ MSG_BUTTONREPALL
 Erstatt _alle
 ;
 MSG_BUTTONSEARCH
-SÃ¸_k
+Sø_k
 ;
 MSG_NEXTSEARCH
 Forrige
