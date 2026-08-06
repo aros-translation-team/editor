@@ -1,4 +1,4 @@
-## version $VER: JanoEditor.catalog 1.0 (08.08.2024).
+## version $VER: JanoEditor.catalog 1.0 (06.08.2026)
 ## codeset 0
 ## language euskara
 ;
@@ -428,7 +428,7 @@ _Deuseztu
 ;_Cancel
 ;
 MSG_REPLACEALL
-'%s'tako %iu ordeztu dira
+%iu %s ordeztu dira (`%s')
 ;%iu %s of `%s' replaced
 ;
 MSG_OCCURENCY

@@ -350,7 +350,7 @@ Informacije
 ; Information
 ;
 MSG_FORMATINFO
-%s\nDesigned by T.Pierron and C.Guillaume Œ 2000\n\nDatoteka ureðena: %s\nDu¾ina: %iu %s, %iu %s.
+%s\nDesigned by T.Pierron and C.Guillaume (C) 2000\n\nDatoteka ureðena: %s\nDu¾ina: %iu %s, %iu %s.
 ; %s\nDesigned by T.Pierron and C.Guillaume © 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
 ;
 MSG_CONTINUE
