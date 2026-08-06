@@ -1,0 +1,404 @@
+## version $VER: JanoEditor.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_PROJECTTITLE
+Projecte
+; Project
+;
+MSG_NEWEMPTYFILE
+Nou
+; New
+;
+MSG_OPENNEWFILE
+Obrir fitxer...
+; Open file...
+;
+MSG_LOADINPRJ
+Carregar fitxer...
+; Load file...
+;
+MSG_SAVEFILE
+Desar
+; Save
+;
+MSG_SAVEFILEAS
+Desar com...
+; Save as...
+;
+MSG_SAVECHANGES
+Desar canvis
+; Save changes
+;
+MSG_PRINTFILE
+Imprimir
+; Print
+;
+MSG_INFORMATION
+Informació...
+; Information...
+;
+MSG_CLOSE
+Tancar
+; Close
+;
+MSG_QUIT
+Sortir
+; Quit
+;
+MSG_EDITTITLE
+Editar
+; Edit
+;
+MSG_CUT
+Tallar
+; Cut
+;
+MSG_COPY
+Copiar
+; Copy
+;
+MSG_PASTE
+Enganxar
+; Paste
+;
+MSG_MARK
+Marcar
+; Mark
+;
+MSG_MARKCOLUMN
+Marcar columna
+; Mark column
+;
+MSG_SELECTALL
+Seleccionar tot
+; Select all
+;
+MSG_DELLINE
+Esborrar línia
+; Delete line
+;
+MSG_SUBTOOLS
+Eines
+; Tools
+;
+MSG_INDENT
+Sagnar
+; Indent
+;
+MSG_UNINDENT
+Treure sagnat
+; Unindent
+;
+MSG_UPPERCASE
+Majúscules
+; Upper case
+;
+MSG_LOWERCASE
+Minúscules
+; Lower case
+;
+MSG_TOGGLECASE
+Invertir majúscules/minúscules
+; Toggle case
+;
+MSG_INSERTFILE
+Inserir fitxer...
+; Insert file...
+;
+MSG_UNDO
+Desfer
+; Undo
+;
+MSG_REDO
+Refer
+; Redo
+;
+MSG_SEARCHTITLE
+Cercar
+; Search
+;
+MSG_FIND
+Cercar...
+; Find...
+;
+MSG_REPLACE
+Reemplaçar...
+; Replace...
+;
+MSG_SUBFIND
+Cercar
+; Find
+;
+MSG_NEXTFIND
+Següent
+; Next
+;
+MSG_PREVFIND
+Anterior
+; Previous
+;
+MSG_NEXTREPLACE
+Substituir
+; Replace
+;
+MSG_PREVPAGE
+Pàgina anterior
+; Previous page
+;
+MSG_NEXTPAGE
+Pàgina següent
+; Next page
+;
+MSG_GOTOLINE
+Anar a la línia...
+; Goto line...
+;
+MSG_FINDBRACKET
+Parèntesi corresponent
+; Matching bracket
+;
+MSG_LASTMODIF
+Darrera modificació
+; Last modification
+;
+MSG_BEGOFLINE
+Inici de línia
+; Start of line
+;
+MSG_ENDOFLINE
+Final de línia
+; End of line
+;
+MSG_MACROTITLE
+Macro
+; Macro
+;
+MSG_STARTRECORD
+Iniciar gravació
+; Start recording
+;
+MSG_STOPRECORD
+Aturar gravació
+; Stop recording
+;
+MSG_PLAYMACRO
+Executar macro
+; Execute macro
+;
+MSG_REPEATMACRO
+Repetir macro...
+; Repeat macro...
+;
+MSG_ENVTITLE
+Entorn
+; Environment
+;
+MSG_SCRMODE
+Mode de pantalla...
+; Screen mode...
+;
+MSG_FONTS
+Tipus de lletra...
+; Fonts...
+;
+MSG_PREFS
+Preferències generals...
+; General preferences...
+;
+MSG_LOADPREFS
+Carregar preferències...
+; Load preferences...
+;
+MSG_SAVEPREFS
+Desar preferències
+; Save preferences
+;
+MSG_SAVEPREFSAS
+Desar preferències com...
+; Save preferences as...
+;
+ERR_BADOS
+SO obsolet. Instal·leu v2.0 o superior.
+; Obsolete OS. Install v2.0 or better.
+;
+ERR_NOASLREQ
+No es pot assignar la petició ASL!
+; Cannot alloc ASL requester!
+;
+ERR_NOMEM
+Memòria esgotada!
+; Out of memory!
+;
+ERR_NOGUI
+No s'ha pogut obrir la interfície principal!
+; Main interface failed to open!
+;
+ERR_NONAME
+Sense títol
+; No title
+;
+ERR_WRITECLIP
+Error d'escriptura al dispositiu de porta-retalls
+; Write error into clipboard device
+;
+ERR_OPENCLIP
+No es pot obrir el porta-retalls!
+; Unable to open clipboard!
+;
+ERR_LOADFILE
+No es pot carregar el fitxer sol·licitat
+; Unable to load requested file
+;
+ERR_NOTXTINCLIP
+No hi ha text al porta-retalls
+; No text in clipboard
+;
+ERR_WRONG_TYPE
+L'objecte és un directori!
+; Object is a directory!
+;
+ERR_READCLIP
+Operació de lectura incompleta
+; Read operation incomplete
+;
+ERR_NOBRACKET
+No hi ha cap parèntesi sota el cursor!
+; No parenthesis under cursor!
+;
+ERR_NOT_FOUND
+No s'ha trobat el patró `%s'
+; Pattern `%s' not found
+;
+ERR_LOADFONT
+No es pot obrir el tipus de lletra desitjat!
+; Can't open desired font!
+;
+ERR_NOPREFEDITOR
+No es troba l'editor de preferències!
+; Can't find preference editor!
+;
+ERR_BADPREFSFILE
+Format de fitxer de preferències incorrecte.
+; Bad preference file format.
+;
+ERR_FILEMODIFIED
+%s ha estat modificat.\nSegur que voleu tancar-lo?
+; %s has been modified.\nAre you sure want to close it?
+;
+ERR_SLC
+Desar|Tancar|Cancel·lar
+; Save|Close|Cancel
+;
+ERR_NOSEARCHTEXT
+No hi ha text per cercar!
+; No text to search for!
+;
+ERR_FILEEXISTS
+Aquest fitxer ja existeix. Voleu sobreescriure'l?
+; This file already exists. Overwrite it?
+;
+ERR_OC
+Sí|No!
+; Yes|No!
+;
+WARN_RECORD
+Iniciar gravació de macro
+; Start recording macro
+;
+WARN_RECORDED
+Macro gravada
+; Macro recorded
+;
+WARN_REC
+[REC]
+; [REC]
+;
+MSG_ABOUT
+Informació
+; Information
+;
+MSG_FORMATINFO
+%s\nDissenyat per T.Pierron i C.Guillaume \xa9 2000\n\nFitxer editat: %s\nLongitud: %iu %s, %iu %s.
+; %s\nDesigned by T.Pierron and C.Guillaume \xa9 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
+;
+MSG_CONTINUE
+Continuar
+; Continue
+;
+MSG_BYTE
+byte
+; byte
+;
+MSG_BYTES
+bytes
+; bytes
+;
+MSG_LINE
+línia
+; line
+;
+MSG_LINES
+línies
+; lines
+;
+MSG_SEARCHWINDOW
+Patró de cerca
+; Search pattern
+;
+MSG_REPLACEWINDOW
+Cercar i Reemplaçar
+; Search & Replace
+;
+MSG_SEARCHSTRING
+Cercar:
+; Locate:
+;
+MSG_REPLACESTRING
+Reemplaçar:
+; Replace:
+;
+MSG_OPTCASE
+Distingir majúscules
+; Match case
+;
+MSG_OPTWORDS
+Paraules senceres
+; Whole words
+;
+MSG_BUTTONREPLACE
+_Substituir
+; _Replace
+;
+MSG_BUTTONREPALL
+Substituir-ho _tot
+; Replace _All
+;
+MSG_BUTTONSEARCH
+Cercar
+; Search
+;
+MSG_NEXTSEARCH
+_Anterior
+; _Previous
+;
+MSG_USESEARCH
+_Usar
+; _Use
+;
+MSG_CANCELSEARCH
+_Cancel.lar
+; _Cancel
+;
+MSG_REPLACEALL
+S'han reemplaçat %iu %s de `%s'
+; %iu %s of `%s' replaced
+;
+MSG_OCCURENCY
+ocurrència
+; occurency
+;
+MSG_OCCURENCIES
+ocurrències
+; occurencies
+;

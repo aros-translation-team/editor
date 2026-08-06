@@ -1,0 +1,404 @@
+## version $VER: JanoEditor.catalog 1.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_PROJECTTITLE
+Project
+; Project
+;
+MSG_NEWEMPTYFILE
+Nieuw
+; New
+;
+MSG_OPENNEWFILE
+Bestand openen...
+; Open file...
+;
+MSG_LOADINPRJ
+Bestand laden...
+; Load file...
+;
+MSG_SAVEFILE
+Bewaar
+; Save
+;
+MSG_SAVEFILEAS
+Bewaar als...
+; Save as...
+;
+MSG_SAVECHANGES
+Wijzigingen bewaren
+; Save changes
+;
+MSG_PRINTFILE
+Afdrukken
+; Print
+;
+MSG_INFORMATION
+Informatie...
+; Information...
+;
+MSG_CLOSE
+Sluit
+; Close
+;
+MSG_QUIT
+Einde
+; Quit
+;
+MSG_EDITTITLE
+Bewerken
+; Edit
+;
+MSG_CUT
+Knippen
+; Cut
+;
+MSG_COPY
+Kopieer
+; Copy
+;
+MSG_PASTE
+Plakken
+; Paste
+;
+MSG_MARK
+Markeren
+; Mark
+;
+MSG_MARKCOLUMN
+Kolom markeren
+; Mark column
+;
+MSG_SELECTALL
+Alles selecteren
+; Select all
+;
+MSG_DELLINE
+Regel verwijderen
+; Delete line
+;
+MSG_SUBTOOLS
+Tools
+; Tools
+;
+MSG_INDENT
+Inspringen
+; Indent
+;
+MSG_UNINDENT
+Uitspringen
+; Unindent
+;
+MSG_UPPERCASE
+Hoofdletters
+; Upper case
+;
+MSG_LOWERCASE
+Kleine letters
+; Lower case
+;
+MSG_TOGGLECASE
+Hoofd-/kleine letters omwisselen
+; Toggle case
+;
+MSG_INSERTFILE
+Bestand invoegen...
+; Insert file...
+;
+MSG_UNDO
+Ongedaan maken
+; Undo
+;
+MSG_REDO
+Opnieuw
+; Redo
+;
+MSG_SEARCHTITLE
+Zoeken
+; Search
+;
+MSG_FIND
+Zoek...
+; Find...
+;
+MSG_REPLACE
+Vervangen...
+; Replace...
+;
+MSG_SUBFIND
+Zoek
+; Find
+;
+MSG_NEXTFIND
+Volgende
+; Next
+;
+MSG_PREVFIND
+Vorige
+; Previous
+;
+MSG_NEXTREPLACE
+Vervangen
+; Replace
+;
+MSG_PREVPAGE
+Vorige pagina
+; Previous page
+;
+MSG_NEXTPAGE
+Volgende pagina
+; Next page
+;
+MSG_GOTOLINE
+Ga naar regel...
+; Goto line...
+;
+MSG_FINDBRACKET
+Bijbehorend haakje
+; Matching bracket
+;
+MSG_LASTMODIF
+Laatste wijziging
+; Last modification
+;
+MSG_BEGOFLINE
+Begin van regel
+; Start of line
+;
+MSG_ENDOFLINE
+Einde van regel
+; End of line
+;
+MSG_MACROTITLE
+Macro
+; Macro
+;
+MSG_STARTRECORD
+Opname starten
+; Start recording
+;
+MSG_STOPRECORD
+Opname stoppen
+; Stop recording
+;
+MSG_PLAYMACRO
+Macro uitvoeren
+; Execute macro
+;
+MSG_REPEATMACRO
+Macro herhalen...
+; Repeat macro...
+;
+MSG_ENVTITLE
+Omgeving
+; Environment
+;
+MSG_SCRMODE
+Schermmodus...
+; Screen mode...
+;
+MSG_FONTS
+Fonts...
+; Fonts...
+;
+MSG_PREFS
+Algemene instellingen...
+; General preferences...
+;
+MSG_LOADPREFS
+Instellingen laden...
+; Load preferences...
+;
+MSG_SAVEPREFS
+Instellingen bewaren
+; Save preferences
+;
+MSG_SAVEPREFSAS
+Instellingen bewaren als...
+; Save preferences as...
+;
+ERR_BADOS
+Verouderd OS. Installeer v2.0 of hoger.
+; Obsolete OS. Install v2.0 or better.
+;
+ERR_NOASLREQ
+Kan geen ASL-requester alloceren!
+; Cannot alloc ASL requester!
+;
+ERR_NOMEM
+Onvoldoende geheugen!
+; Out of memory!
+;
+ERR_NOGUI
+Hoofdinterface kon niet worden geopend!
+; Main interface failed to open!
+;
+ERR_NONAME
+Naamloos
+; No title
+;
+ERR_WRITECLIP
+Schrijffout op het klembord
+; Write error into clipboard device
+;
+ERR_OPENCLIP
+Kan het klembord niet openen!
+; Unable to open clipboard!
+;
+ERR_LOADFILE
+Kan het gevraagde bestand niet laden
+; Unable to load requested file
+;
+ERR_NOTXTINCLIP
+Geen tekst op het klembord
+; No text in clipboard
+;
+ERR_WRONG_TYPE
+Object is een map!
+; Object is a directory!
+;
+ERR_READCLIP
+Leesbewerking onvolledig
+; Read operation incomplete
+;
+ERR_NOBRACKET
+Geen haakje onder de cursor!
+; No parenthesis under cursor!
+;
+ERR_NOT_FOUND
+Patroon `%s' niet gevonden
+; Pattern `%s' not found
+;
+ERR_LOADFONT
+Kan het gewenste font niet openen!
+; Can't open desired font!
+;
+ERR_NOPREFEDITOR
+Kan de instellingeneditor niet vinden!
+; Can't find preference editor!
+;
+ERR_BADPREFSFILE
+Ongeldig formaat van instellingenbestand.
+; Bad preference file format.
+;
+ERR_FILEMODIFIED
+%s is gewijzigd.\nWeet u zeker dat u het wilt sluiten?
+; %s has been modified.\nAre you sure want to close it?
+;
+ERR_SLC
+Bewaar|Sluit|Annuleer
+; Save|Close|Cancel
+;
+ERR_NOSEARCHTEXT
+Geen zoektekst opgegeven!
+; No text to search for!
+;
+ERR_FILEEXISTS
+Dit bestand bestaat al. Overschrijven?
+; This file already exists. Overwrite it?
+;
+ERR_OC
+Ja|Nee!
+; Yes|No!
+;
+WARN_RECORD
+Macro-opname gestart
+; Start recording macro
+;
+WARN_RECORDED
+Macro opgenomen
+; Macro recorded
+;
+WARN_REC
+[REC]
+; [REC]
+;
+MSG_ABOUT
+Informatie
+; Information
+;
+MSG_FORMATINFO
+%s\nOntworpen door T.Pierron en C.Guillaume \xa9 2000\n\nBewerkt bestand: %s\nLengte: %iu %s, %iu %s.
+; %s\nDesigned by T.Pierron and C.Guillaume \xa9 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
+;
+MSG_CONTINUE
+Doorgaan
+; Continue
+;
+MSG_BYTE
+byte
+; byte
+;
+MSG_BYTES
+bytes
+; bytes
+;
+MSG_LINE
+regel
+; line
+;
+MSG_LINES
+regels
+; lines
+;
+MSG_SEARCHWINDOW
+Zoekpatroon
+; Search pattern
+;
+MSG_REPLACEWINDOW
+Zoeken & Vervangen
+; Search & Replace
+;
+MSG_SEARCHSTRING
+Zoek:
+; Locate:
+;
+MSG_REPLACESTRING
+Vervangen:
+; Replace:
+;
+MSG_OPTCASE
+Hoofdlettergevoelig
+; Match case
+;
+MSG_OPTWORDS
+Hele woorden
+; Whole words
+;
+MSG_BUTTONREPLACE
+Ve_rvangen
+; _Replace
+;
+MSG_BUTTONREPALL
+_Alles vervangen
+; Replace _All
+;
+MSG_BUTTONSEARCH
+Zoeken
+; Search
+;
+MSG_NEXTSEARCH
+_Vorige
+; _Previous
+;
+MSG_USESEARCH
+_Gebruik
+; _Use
+;
+MSG_CANCELSEARCH
+_Annuleer
+; _Cancel
+;
+MSG_REPLACEALL
+%iu %s van `%s' vervangen
+; %iu %s of `%s' replaced
+;
+MSG_OCCURENCY
+voorkomen
+; occurency
+;
+MSG_OCCURENCIES
+voorkomens
+; occurencies
+;

@@ -1,0 +1,404 @@
+## version $VER: JanoEditor.catalog 1.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_PROJECTTITLE
+Projekt
+; Project
+;
+MSG_NEWEMPTYFILE
+Ny
+; New
+;
+MSG_OPENNEWFILE
+Öppna fil...
+; Open file...
+;
+MSG_LOADINPRJ
+Ladda fil...
+; Load file...
+;
+MSG_SAVEFILE
+Spara
+; Save
+;
+MSG_SAVEFILEAS
+Spara som...
+; Save as...
+;
+MSG_SAVECHANGES
+Spara ändringar
+; Save changes
+;
+MSG_PRINTFILE
+Skriv ut
+; Print
+;
+MSG_INFORMATION
+Information...
+; Information...
+;
+MSG_CLOSE
+Stäng
+; Close
+;
+MSG_QUIT
+Avsluta
+; Quit
+;
+MSG_EDITTITLE
+Redigera
+; Edit
+;
+MSG_CUT
+Klipp ut
+; Cut
+;
+MSG_COPY
+Kopiera
+; Copy
+;
+MSG_PASTE
+Klistra in
+; Paste
+;
+MSG_MARK
+Bit på
+; Mark
+;
+MSG_MARKCOLUMN
+Markera kolumn
+; Mark column
+;
+MSG_SELECTALL
+Markera allt
+; Select all
+;
+MSG_DELLINE
+Radera rad
+; Delete line
+;
+MSG_SUBTOOLS
+Verktyg
+; Tools
+;
+MSG_INDENT
+Indrag
+; Indent
+;
+MSG_UNINDENT
+Minska indrag
+; Unindent
+;
+MSG_UPPERCASE
+Versaler
+; Upper case
+;
+MSG_LOWERCASE
+Gemener
+; Lower case
+;
+MSG_TOGGLECASE
+Växla skiftläge
+; Toggle case
+;
+MSG_INSERTFILE
+Infoga fil...
+; Insert file...
+;
+MSG_UNDO
+Ångra
+; Undo
+;
+MSG_REDO
+Gör om
+; Redo
+;
+MSG_SEARCHTITLE
+Sök
+; Search
+;
+MSG_FIND
+Sök...
+; Find...
+;
+MSG_REPLACE
+Ersätt...
+; Replace...
+;
+MSG_SUBFIND
+Sök
+; Find
+;
+MSG_NEXTFIND
+Nästa
+; Next
+;
+MSG_PREVFIND
+Föregående
+; Previous
+;
+MSG_NEXTREPLACE
+Ersätt
+; Replace
+;
+MSG_PREVPAGE
+Föregående sida
+; Previous page
+;
+MSG_NEXTPAGE
+Nästa sida
+; Next page
+;
+MSG_GOTOLINE
+Gå till rad...
+; Goto line...
+;
+MSG_FINDBRACKET
+Matchande parentes
+; Matching bracket
+;
+MSG_LASTMODIF
+Senaste ändring
+; Last modification
+;
+MSG_BEGOFLINE
+Radens början
+; Start of line
+;
+MSG_ENDOFLINE
+Radens slut
+; End of line
+;
+MSG_MACROTITLE
+Makro
+; Macro
+;
+MSG_STARTRECORD
+Starta inspelning
+; Start recording
+;
+MSG_STOPRECORD
+Stoppa inspelning
+; Stop recording
+;
+MSG_PLAYMACRO
+Kör makro
+; Execute macro
+;
+MSG_REPEATMACRO
+Upprepa makro...
+; Repeat macro...
+;
+MSG_ENVTITLE
+Miljö
+; Environment
+;
+MSG_SCRMODE
+Skärmläge...
+; Screen mode...
+;
+MSG_FONTS
+Typsnitt...
+; Fonts...
+;
+MSG_PREFS
+Allmänna inställningar...
+; General preferences...
+;
+MSG_LOADPREFS
+Ladda inställningar...
+; Load preferences...
+;
+MSG_SAVEPREFS
+Spara inställningar
+; Save preferences
+;
+MSG_SAVEPREFSAS
+Spara inställningar som...
+; Save preferences as...
+;
+ERR_BADOS
+Föråldrat OS. Installera v2.0 eller senare.
+; Obsolete OS. Install v2.0 or better.
+;
+ERR_NOASLREQ
+Kan inte allokera ASL-förfrågan!
+; Cannot alloc ASL requester!
+;
+ERR_NOMEM
+Slut på minne!
+; Out of memory!
+;
+ERR_NOGUI
+Huvudgränssnittet kunde inte öppnas!
+; Main interface failed to open!
+;
+ERR_NONAME
+Namnlös
+; No title
+;
+ERR_WRITECLIP
+Skrivfel i urklippsenheten
+; Write error into clipboard device
+;
+ERR_OPENCLIP
+Kan inte öppna urklipp!
+; Unable to open clipboard!
+;
+ERR_LOADFILE
+Kan inte ladda den begärda filen
+; Unable to load requested file
+;
+ERR_NOTXTINCLIP
+Ingen text i urklipp
+; No text in clipboard
+;
+ERR_WRONG_TYPE
+Objektet är en katalog!
+; Object is a directory!
+;
+ERR_READCLIP
+Läsoperationen slutfördes inte
+; Read operation incomplete
+;
+ERR_NOBRACKET
+Ingen parentes under markören!
+; No parenthesis under cursor!
+;
+ERR_NOT_FOUND
+Mönstret `%s' hittades inte
+; Pattern `%s' not found
+;
+ERR_LOADFONT
+Kan inte öppna önskat typsnitt!
+; Can't open desired font!
+;
+ERR_NOPREFEDITOR
+Hittar inte inställningsprogrammet!
+; Can't find preference editor!
+;
+ERR_BADPREFSFILE
+Felaktigt format på inställningsfilen.
+; Bad preference file format.
+;
+ERR_FILEMODIFIED
+%s har ändrats.\nÄr du säker på att du vill stänga den?
+; %s has been modified.\nAre you sure want to close it?
+;
+ERR_SLC
+Spara|Stäng|Avbryt
+; Save|Close|Cancel
+;
+ERR_NOSEARCHTEXT
+Ingen text att söka efter!
+; No text to search for!
+;
+ERR_FILEEXISTS
+Filen finns redan. Skriva över den?
+; This file already exists. Overwrite it?
+;
+ERR_OC
+Ja|Nej!
+; Yes|No!
+;
+WARN_RECORD
+Börja spela in makro
+; Start recording macro
+;
+WARN_RECORDED
+Makro inspelat
+; Macro recorded
+;
+WARN_REC
+[REC]
+; [REC]
+;
+MSG_ABOUT
+Information
+; Information
+;
+MSG_FORMATINFO
+%s\nSkapad av T.Pierron och C.Guillaume \xa9 2000\n\nRedigerad fil: %s\nLängd: %iu %s, %iu %s.
+; %s\nDesigned by T.Pierron and C.Guillaume \xa9 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
+;
+MSG_CONTINUE
+Fortsätt
+; Continue
+;
+MSG_BYTE
+byte
+; byte
+;
+MSG_BYTES
+byte
+; bytes
+;
+MSG_LINE
+rad
+; line
+;
+MSG_LINES
+rader
+; lines
+;
+MSG_SEARCHWINDOW
+Sökmönster
+; Search pattern
+;
+MSG_REPLACEWINDOW
+Sök och ersätt
+; Search & Replace
+;
+MSG_SEARCHSTRING
+Sök:
+; Locate:
+;
+MSG_REPLACESTRING
+Ersätt:
+; Replace:
+;
+MSG_OPTCASE
+Skilj på versaler/gemener
+; Match case
+;
+MSG_OPTWORDS
+Hela ord
+; Whole words
+;
+MSG_BUTTONREPLACE
+_Ersätt
+; _Replace
+;
+MSG_BUTTONREPALL
+Ersätt _alla
+; Replace _All
+;
+MSG_BUTTONSEARCH
+Sök
+; Search
+;
+MSG_NEXTSEARCH
+_Föregående
+; _Previous
+;
+MSG_USESEARCH
+_Använd
+; _Use
+;
+MSG_CANCELSEARCH
+A_vbryt
+; _Cancel
+;
+MSG_REPLACEALL
+%iu %s av `%s' ersattes
+; %iu %s of `%s' replaced
+;
+MSG_OCCURENCY
+förekomst
+; occurency
+;
+MSG_OCCURENCIES
+förekomster
+; occurencies
+;
