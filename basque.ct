@@ -350,7 +350,7 @@ Informazioa
 ;
 MSG_FORMATINFO
 %s\nT.Pierronek eta C.Guillaumek diseniatuta © 2000\n\nArchivo editdo: %s\nLongitud: %iu %s, %iu %s.
-;%s\nDesigned by T.Pierron and C.Guillaume © 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
+;%s\nDesigned by T.Pierron and C.Guillaume \xa9 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
 ;
 MSG_CONTINUE
 Jarratu
