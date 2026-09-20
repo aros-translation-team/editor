@@ -15,7 +15,7 @@ Nuovo
 ;
 MSG_OPENNEWFILE
 Apri...
-; Open file...; Open file...
+; Open file...
 ;
 MSG_LOADINPRJ
 Apri file...
@@ -354,7 +354,7 @@ Carattere
 ;
 MSG_BYTES
 Caratteri
-; Bytes
+; bytes
 ;
 MSG_LINE
 Linea
