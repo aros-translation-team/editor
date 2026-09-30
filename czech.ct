@@ -351,7 +351,7 @@ Informace
 ;
 MSG_FORMATINFO
 %s\nAutoøi: T.Pierron a C.Guillaume\nCopyright (C) 2000\n\nOtevøený soubor: %s\nStatistika: %iu %s, %iu %s.
-; %s\nDesigned by T.Pierron and C.Guillaume © 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
+; %s\nDesigned by T.Pierron and C.Guillaume \xa9 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
 ;
 MSG_CONTINUE
 OK

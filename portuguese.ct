@@ -352,7 +352,7 @@ Informação
 ;
 MSG_FORMATINFO
 %s\nProgramado por T.Pierron y C.Guillaume © 2000\n\nFicheiro editado: %s\nTamanho: %iu %s, %iu %s.
-;%s\nDesigned by T.Pierron and C.Guillaume © 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
+;%s\nDesigned by T.Pierron and C.Guillaume \xa9 2000\n\nFile edited: %s\nLength: %iu %s, %iu %s.
 ;
 MSG_CONTINUE
 Continuar
